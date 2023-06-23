@@ -1,0 +1,7 @@
+export { GithubService} from './githubService'
+export { OctoKitService} from './octoKitService'
+export { TreeService } from './treeService'
+export { RepositoryService } from './repositoryService'
+export { GetReadmeDetails } from './getReadme'
+export { GetEmailOfAuthUser } from './getEmailOfAuthUser'
+export { getUserDetails } from './getUserDetails'
